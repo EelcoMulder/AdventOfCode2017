@@ -18,7 +18,7 @@ let calculateCaptchaPart1 (digitsString : string) =
     let total =
         digits |> Seq.mapi (fun idx _ -> getIndexValue idx 1 digits)
         |> Seq.sum |> int
-    total + cv
+    (total + cv) |> string
 
 // use local functions
 let calculateCaptchaPart2 (digitsString : string) = 
@@ -28,5 +28,5 @@ let calculateCaptchaPart2 (digitsString : string) =
     let total =
         digits |> Seq.mapi (fun idx _ -> getIndexValue idx step doubleByteArray)
         |> Seq.sum
-    total
+    total |> string
 
