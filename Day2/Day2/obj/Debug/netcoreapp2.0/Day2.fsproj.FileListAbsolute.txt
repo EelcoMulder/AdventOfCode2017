@@ -1,0 +1,8 @@
+C:\FSharp\AdventOfCode\Day2\Day2\bin\Debug\netcoreapp2.0\Day2.deps.json
+C:\FSharp\AdventOfCode\Day2\Day2\bin\Debug\netcoreapp2.0\Day2.runtimeconfig.json
+C:\FSharp\AdventOfCode\Day2\Day2\bin\Debug\netcoreapp2.0\Day2.runtimeconfig.dev.json
+C:\FSharp\AdventOfCode\Day2\Day2\bin\Debug\netcoreapp2.0\Day2.dll
+C:\FSharp\AdventOfCode\Day2\Day2\bin\Debug\netcoreapp2.0\Day2.pdb
+C:\FSharp\AdventOfCode\Day2\Day2\obj\Debug\netcoreapp2.0\Day2.fsproj.CoreCompileInputs.cache
+C:\FSharp\AdventOfCode\Day2\Day2\obj\Debug\netcoreapp2.0\Day2.dll
+C:\FSharp\AdventOfCode\Day2\Day2\obj\Debug\netcoreapp2.0\Day2.pdb

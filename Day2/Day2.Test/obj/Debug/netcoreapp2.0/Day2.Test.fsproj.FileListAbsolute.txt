@@ -1,0 +1,10 @@
+C:\FSharp\AdventOfCode\Day2\Day2.Test\bin\Debug\netcoreapp2.0\Day2.Test.deps.json
+C:\FSharp\AdventOfCode\Day2\Day2.Test\bin\Debug\netcoreapp2.0\Day2.Test.runtimeconfig.json
+C:\FSharp\AdventOfCode\Day2\Day2.Test\bin\Debug\netcoreapp2.0\Day2.Test.runtimeconfig.dev.json
+C:\FSharp\AdventOfCode\Day2\Day2.Test\bin\Debug\netcoreapp2.0\Day2.Test.dll
+C:\FSharp\AdventOfCode\Day2\Day2.Test\bin\Debug\netcoreapp2.0\Day2.Test.pdb
+C:\FSharp\AdventOfCode\Day2\Day2.Test\bin\Debug\netcoreapp2.0\Day2.dll
+C:\FSharp\AdventOfCode\Day2\Day2.Test\bin\Debug\netcoreapp2.0\Day2.pdb
+C:\FSharp\AdventOfCode\Day2\Day2.Test\obj\Debug\netcoreapp2.0\Day2.Test.fsproj.CoreCompileInputs.cache
+C:\FSharp\AdventOfCode\Day2\Day2.Test\obj\Debug\netcoreapp2.0\Day2.Test.dll
+C:\FSharp\AdventOfCode\Day2\Day2.Test\obj\Debug\netcoreapp2.0\Day2.Test.pdb

@@ -3,16 +3,13 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Day1\Day1.fsproj">
-      <Name>Day1.fsproj</Name>
+    <ProjectReference Include="..\Day2\Day2.fsproj">
+      <Name>Day2.fsproj</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Tests.fs" />
     <Compile Include="Program.fs" />
-    <Content Include="Input.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>    
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.3.0-preview-20170628-02" />
