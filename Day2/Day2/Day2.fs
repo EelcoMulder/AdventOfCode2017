@@ -8,13 +8,17 @@ let readLines (filePath : string) = seq {
 let getDifference digits =    
     Seq.max digits - Seq.min digits
 
-let parseLines lines = 
+let parseLines lines calc = 
     let result = Seq.sumBy (fun (x : string) -> x.Split('\t') 
                                              |> Seq.map (string >> int)
-                                             |> getDifference) lines
+                                             |> calc) lines
     result |> string
 let readInputFile = 
-    let lines = readLines(System.IO.Path.Combine(System.Environment.CurrentDirectory, @"Day2\Input.txt"))
-    let result = parseLines lines
-    printf "Result %s" result
-    result
+    Seq.toArray <| readLines(System.IO.Path.Combine(System.Environment.CurrentDirectory, @"Day2\Input.txt"))
+
+let part1 =
+    parseLines readInputFile getDifference
+
+let part2 = 
+    parseLines readInputFile getDifference
+     

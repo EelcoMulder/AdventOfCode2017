@@ -5,5 +5,6 @@ open Day2
 
 [<EntryPoint>]
 let main argv =
-    printfn "Result %s" <| readInputFile 
+    printfn "Result part 1: %s" <| part1 
     0 // return an integer exit code
+ 
